@@ -1,2 +1,2 @@
 # VRLabs
-VR Simulations of Fluid Dynamics for CPP 
+VR Simulations of Fluid Dynamics Laboratories for CPP 
